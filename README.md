@@ -15,7 +15,7 @@ A lightweight WooCommerce plugin that scans your store for hidden issues affecti
 
 ## Screenshots
 
-Coming soon.
+![Store Health Assistant Dashboard](assets/images/dashboard.png)
 
 ## Installation
 
