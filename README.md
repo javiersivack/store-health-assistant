@@ -1,6 +1,8 @@
 # Store Health Assistant for WooCommerce
 
-A lightweight WooCommerce plugin that scans your store for hidden issues affecting sales and SEO.
+Find hidden WooCommerce product issues before they hurt your sales.
+
+Store Health Assistant scans your WooCommerce store and highlights missing images, missing descriptions, missing prices, stock problems, and products that never sold.
 
 ## Features
 
@@ -14,6 +16,10 @@ A lightweight WooCommerce plugin that scans your store for hidden issues affecti
 - Products never sold
 
 ## Screenshots
+
+## Dashboard
+
+The dashboard gives store owners a quick health score and a prioritized list of issues to fix.
 
 ![Store Health Assistant Dashboard](assets/images/dashboard.png)
 
